@@ -86,3 +86,8 @@ img {
 .weather{
     display: none;
 }
+.error {
+    text-align: center;
+    color: white;
+    display: none;
+}
